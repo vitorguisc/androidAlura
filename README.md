@@ -1,4 +1,4 @@
-## Android parte 1: crie um app mobile <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/> 
+## Android parte 1: criando um app mobile <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/> 
 
 
 💬 Entendendo o que é o Android e sua plataforma
